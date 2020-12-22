@@ -10,6 +10,7 @@ function dif($value,$num){
   }
   dif(1,10);
 
+  echo "ver.2"
 
 /*function sum($num){
   $total = 0;
